@@ -1,5 +1,6 @@
 #root {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(103, 98, 98);
 }
 
 .vermelho {
@@ -31,4 +32,5 @@ button:hover {
 .vagas {
   width: 200px;
   height: 120px;
+  border-radius: 200px;
 }

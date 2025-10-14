@@ -35,13 +35,13 @@ function App() {
       <button onClick={entrada}>Entrada de Clientes</button>
       <button onClick={saida}>Saída de Clientes</button>
       <br />
-      {/* {mesas > 0 ?
+      {mesas > 0 ?
         <img src="vagas.jpg" className="vagas" />
         :
         <img src="nvagas.jpg" className="vagas" />
-      } */}
+      }
 
-      {mesas > 0 && <img src='vagas.jpg' className='vagas' />}
+      {/* {mesas > 0 && <img src='vagas.jpg' className='vagas' />} */}
 
     </>
   )
