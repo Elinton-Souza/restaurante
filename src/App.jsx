@@ -32,8 +32,8 @@ function App() {
       <h2>
         Mesas Disponíveis: {mesas} - Mesas Ocupadas: {10 - mesas}
       </h2>
-      <button onClick={entrada}>Entrada de Cliente</button>
-      <button onClick={saida}>Saída de Cliente</button>
+      <button onClick={entrada}>Entrada de Clientes</button>
+      <button onClick={saida}>Saída de Clientes</button>
       <br />
       {/* {mesas > 0 ?
         <img src="vagas.jpg" className="vagas" />
